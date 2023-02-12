@@ -1,0 +1,40 @@
+body {
+    background-color: lightskyblue;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    color: red;
+    margin-bottom: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p {
+    font-size: 30px;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button {
+    background-color: blueviolet;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.films {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: fantasy;
+}
+img {
+    width: 300px;
+    border-radius: 10%;
+    box-shadow: 1px 1px 10px 15px #780;
+}
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkviolet;
+}
+.output {
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: crimson;
+}
